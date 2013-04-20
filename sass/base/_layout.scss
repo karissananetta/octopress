@@ -84,8 +84,9 @@ body {
   }
   > header {
     font-size: $header-font-size;
-    padding-top: $header-padding-top;
-    padding-bottom: $header-padding-bottom;
+    height: 170px;
+    position: relative;
+    top: -10px;
   }
 }
 
