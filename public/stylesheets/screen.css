@@ -117,10 +117,7 @@ figcaption,
 figure,
 footer,
 header,
-hgroup {
-	position: relative;
-	left: -35px;
-}
+hgroup,
 menu,
 nav,
 section,
