@@ -41,3 +41,25 @@
 //$pre-bg: $base03;
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
+
+// ////////////////////////////////////////
+// change the background colors
+//
+html {
+  background: #eee !important;
+}
+body {
+  > div {
+    background: #eee !important;
+    > div {
+      background: #eee !important;
+      }
+  }
+}
+$main-bg: #eee !default;
+$page-bg: #eee !default;
+
+// ////////////////////////////////////////
+// change the header colors
+//
+$header-bg: #eee;
