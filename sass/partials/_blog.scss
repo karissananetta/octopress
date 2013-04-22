@@ -20,6 +20,8 @@ article {
         @extend .sans;
         text-transform: uppercase;
         position: absolute; top: 0;
+        text-align: center;
+        width: 850px;
       }
     }
     @media only screen and (min-width: 768px) {
@@ -46,6 +48,9 @@ article {
     @extend .flex-content;
     @extend .basic-alignment;
     @include shadow-box;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
   }
   video, .flash-video { margin: 0 auto 1.5em; }
   video { display: block; width: 100%; }

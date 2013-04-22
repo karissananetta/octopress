@@ -45,21 +45,8 @@
 // ////////////////////////////////////////
 // change the background colors
 //
-html {
-  background: #eee !important;
-}
-body {
-  > div {
-    background: #eee !important;
-    > div {
-      background: #eee !important;
-      }
-  }
-}
-$main-bg: #eee !default;
-$page-bg: #eee !default;
+
 
 // ////////////////////////////////////////
 // change the header colors
 //
-$header-bg: #eee;

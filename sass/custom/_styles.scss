@@ -23,7 +23,7 @@ body {
 		h1 {
 			a, a:visited, a:hover {
 				color: #8C8C8C;
-				font-family: "Fjalla One","Helvetica Neue",Arial,sans-serif;
+				font-family: futura, "Fjalla One","Helvetica Neue",Arial,sans-serif;
 			}
 		}
 	}
@@ -115,8 +115,10 @@ article {
 
 	header {
 		h1.entry-title {
-			font-family: "Fjalla One","Helvetica Neue",Arial,sans-serif;
+			font-family: Futura, Arial,sans-serif;
 			font-weight: 400;
+			font-size: 22pt;
+			text-align: center;
 		}
 	}
 }
@@ -146,8 +148,9 @@ article {
 
 		h1 {
 			a {
-				font-family: "Fjalla One","Helvetica Neue",Arial,sans-serif;
+				font-family: futura, "Fjalla One","Helvetica Neue",Arial,sans-serif;
 				font-weight: 400;
+				font-size: 22pt;
 			}
 
 			a:hover {
