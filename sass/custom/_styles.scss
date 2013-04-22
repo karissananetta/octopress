@@ -22,7 +22,7 @@ body {
 
 		h1 {
 			a, a:visited, a:hover {
-				color: #8C8C8C;
+				color: #165b94;
 				font-family: futura, "Fjalla One","Helvetica Neue",Arial,sans-serif;
 			}
 		}
@@ -119,6 +119,7 @@ article {
 			font-weight: 400;
 			font-size: 22pt;
 			text-align: center;
+			color: #305eba;
 		}
 	}
 }
@@ -151,6 +152,7 @@ article {
 				font-family: futura, "Fjalla One","Helvetica Neue",Arial,sans-serif;
 				font-weight: 400;
 				font-size: 22pt;
+				color: #305eba;
 			}
 
 			a:hover {
@@ -161,9 +163,10 @@ article {
 
 	.hentry {
 		h1.entry-title {
-			font-family: "Fjalla One","Helvetica Neue",Arial,sans-serif;
+			font-family: futura, "Fjalla One","Helvetica Neue",Arial,sans-serif;
 			font-weight: 400;
-			font-size: 2.2em;
+			font-size: 22pt;
+			color: #305eba;
 		}
 	}
 	
