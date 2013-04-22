@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Photography | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/photography/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-04-22T01:49:55-04:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Photography | Harvey Xia]]></title>
+  <link href="http://www.harveyxia.com/blog/categories/photography/atom.xml" rel="self"/>
+  <link href="http://www.harveyxia.com/"/>
+  <updated>2013-04-22T12:23:25-04:00</updated>
+  <id>http://www.harveyxia.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Harvey Xia]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Semester and Autumn]]></title>
-    <link href="http://yoursite.com/2012/11/first-semester-and-autumn/"/>
+    <link href="http://www.harveyxia.com/2012/11/first-semester-and-autumn/"/>
     <updated>2012-11-13T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/11/first-semester-and-autumn</id>
+    <id>http://www.harveyxia.com/2012/11/first-semester-and-autumn</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>These are some of the pictures I’ve taken with my iPhone 5 recently. Most of them are filtered with Instagram (which really is a great app when it’s not just used to “mupload” the sushi you had last night).</p>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Essays | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/essays/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-04-22T01:49:55-04:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Category: Essays | Harvey Xia]]></title>
+  <link href="http://www.harveyxia.com/blog/categories/essays/atom.xml" rel="self"/>
+  <link href="http://www.harveyxia.com/"/>
+  <updated>2013-04-22T12:23:25-04:00</updated>
+  <id>http://www.harveyxia.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Harvey Xia]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Music as Sound, Sound as Music]]></title>
-    <link href="http://yoursite.com/2012/12/music-as-sound-sound-as-music/"/>
+    <link href="http://www.harveyxia.com/2012/12/music-as-sound-sound-as-music/"/>
     <updated>2012-12-19T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/12/music-as-sound-sound-as-music</id>
+    <id>http://www.harveyxia.com/2012/12/music-as-sound-sound-as-music</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>Leaning forward in my chair, I gripped my saxophone in anticipation. It was my first rehearsal with the Senior Massachusetts Youth Wind Ensemble, the first musical group to ever intimidate me with its degree of talent and level of perfection. Widely regarded as one of the top wind ensembles in the world, the group is led by Michael Mucci — a conductor, educator, and mentor whom I admire deeply. During his opening remarks he said a curious thing.</p>
@@ -42,9 +42,9 @@
   
   <entry>
     <title type="html"><![CDATA[How to Look at Snow]]></title>
-    <link href="http://yoursite.com/2012/12/how-to-look-at-snow/"/>
+    <link href="http://www.harveyxia.com/2012/12/how-to-look-at-snow/"/>
     <updated>2012-12-10T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/12/how-to-look-at-snow</id>
+    <id>http://www.harveyxia.com/2012/12/how-to-look-at-snow</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><em>This piece is a <a href="http://en.wikipedia.org/wiki/Lipogram">lipogram</a> in which I did not use the letter E (do a Ctrl-F if you don’t believe me). It was immensely challenging, but I had a fun time writing it. Enjoy.</em></p>
@@ -66,9 +66,9 @@ Nothing can approach that first sighting of snow falling softly from a calm gray
   
   <entry>
     <title type="html"><![CDATA[Asking the Difficult Question]]></title>
-    <link href="http://yoursite.com/2012/12/asking-the-difficult-question/"/>
+    <link href="http://www.harveyxia.com/2012/12/asking-the-difficult-question/"/>
     <updated>2012-12-09T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/12/asking-the-difficult-question</id>
+    <id>http://www.harveyxia.com/2012/12/asking-the-difficult-question</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>They bombarded us with warnings about the consequences of irresponsible drinking even before I got to college. The high school principal, teachers, and guidance counselors wanted us to understand that binge drinking is a serious matter — it leads to deaths. When I arrived at Yale, freshman counselors, college deans, and parents sternly reminded us of the same message. This time, they also talked about sexual health and the importance of verbal consent.</p>
@@ -93,9 +93,9 @@ Nothing can approach that first sighting of snow falling softly from a calm gray
   
   <entry>
     <title type="html"><![CDATA[The Little Things]]></title>
-    <link href="http://yoursite.com/2012/11/the-little-things/"/>
+    <link href="http://www.harveyxia.com/2012/11/the-little-things/"/>
     <updated>2012-11-30T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/11/the-little-things</id>
+    <id>http://www.harveyxia.com/2012/11/the-little-things</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>            About to board the plane, I checked my bag for my laptop and passport. Caitlin checked for her stuffed animal—an odd-looking, brown creature called “Domo”—neglecting, among other valuables, an Apple laptop, expensive souvenirs from China, and her family heirloom ring. Teasingly I shook my head and asked, “What would you do if the Domo wasn’t there?” She looked me in the eyes with an expression of terror, deliberately dramatic but also, I think, partly sincere. “I would start bawling like a baby.” she replied. To anyone who doesn’t know her, it would seem odd that she, a college student, considers a child’s toy her most valuable possession. It would seem even more odd that she falls asleep every night clutching Domo to her chest. “He’s cozy and reminds me of home,” she would say so matter-of-factly, as if no further justification were needed.</p>
@@ -144,9 +144,9 @@ Nothing can approach that first sighting of snow falling softly from a calm gray
   
   <entry>
     <title type="html"><![CDATA[Without Words]]></title>
-    <link href="http://yoursite.com/2012/10/without-words/"/>
+    <link href="http://www.harveyxia.com/2012/10/without-words/"/>
     <updated>2012-10-04T00:00:00-04:00</updated>
-    <id>http://yoursite.com/2012/10/without-words</id>
+    <id>http://www.harveyxia.com/2012/10/without-words</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><em>The following is meant to be an addendum to my previously posted essay, “The Woods and I, and Her.” A lipogram is a form of writing in which a certain letter or group of letters is suppressed. In this case, I suppressed the letter E. Writing it was enjoyable—for the first ten hours or so.</em></p>

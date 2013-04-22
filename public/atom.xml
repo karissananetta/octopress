@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-04-22T01:49:55-04:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Harvey Xia]]></title>
+  <link href="http://www.harveyxia.com/atom.xml" rel="self"/>
+  <link href="http://www.harveyxia.com/"/>
+  <updated>2013-04-22T12:23:25-04:00</updated>
+  <id>http://www.harveyxia.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Harvey Xia]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mental State Theory: An Inadequate Picture of Happiness]]></title>
-    <link href="http://yoursite.com/2013/04/mental-state-theory-an-inadequate-picture-of-happiness/"/>
+    <link href="http://www.harveyxia.com/2013/04/mental-state-theory-an-inadequate-picture-of-happiness/"/>
     <updated>2013-04-17T00:00:00-04:00</updated>
-    <id>http://yoursite.com/2013/04/mental-state-theory-an-inadequate-picture-of-happiness</id>
+    <id>http://www.harveyxia.com/2013/04/mental-state-theory-an-inadequate-picture-of-happiness</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>In investigating questions of human happiness, it’s important to explore the very concept of happiness itself. Unfortunately, this word is used in myriad contexts and comes loaded with many meanings. For the purposes of this article, I will use the term to refer to the deeper type of happiness that we associate with human flourishing — the type of happiness we mean when we ask ourselves the question, “Am I <em>really</em> happy?”</p>
@@ -46,9 +46,9 @@
   
   <entry>
     <title type="html"><![CDATA[Brad Mehldau&#8217;s &#8220;My Favorite Things&#8221;]]></title>
-    <link href="http://yoursite.com/2013/02/brad-mehldaus-my-favorite-things/"/>
+    <link href="http://www.harveyxia.com/2013/02/brad-mehldaus-my-favorite-things/"/>
     <updated>2013-02-06T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2013/02/brad-mehldaus-my-favorite-things</id>
+    <id>http://www.harveyxia.com/2013/02/brad-mehldaus-my-favorite-things</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>Jazz musicians and educators always make comparisons between jazz improvisation and language. They talk of expanding one’s “jazz vocabulary” and “pacing” one’s solos effectively. They say that the best solos “tell a story.” In this way, the jazz soloist is analogous a rhetorician giving an improvised speech, attempting saying something meaningful to the audience. But sometimes, as is often the case with many of my favorite recordings, the artist seems engage in a soliloquy, full of introverted reflections. To name off the top of my head some musicians who do this a lot — Miles Davis, Wes Montgomery, and Bill Evans.</p>
@@ -73,9 +73,9 @@
   
   <entry>
     <title type="html"><![CDATA[Music as Sound, Sound as Music]]></title>
-    <link href="http://yoursite.com/2012/12/music-as-sound-sound-as-music/"/>
+    <link href="http://www.harveyxia.com/2012/12/music-as-sound-sound-as-music/"/>
     <updated>2012-12-19T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/12/music-as-sound-sound-as-music</id>
+    <id>http://www.harveyxia.com/2012/12/music-as-sound-sound-as-music</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>Leaning forward in my chair, I gripped my saxophone in anticipation. It was my first rehearsal with the Senior Massachusetts Youth Wind Ensemble, the first musical group to ever intimidate me with its degree of talent and level of perfection. Widely regarded as one of the top wind ensembles in the world, the group is led by Michael Mucci — a conductor, educator, and mentor whom I admire deeply. During his opening remarks he said a curious thing.</p>
@@ -100,9 +100,9 @@
   
   <entry>
     <title type="html"><![CDATA[How to Look at Snow]]></title>
-    <link href="http://yoursite.com/2012/12/how-to-look-at-snow/"/>
+    <link href="http://www.harveyxia.com/2012/12/how-to-look-at-snow/"/>
     <updated>2012-12-10T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/12/how-to-look-at-snow</id>
+    <id>http://www.harveyxia.com/2012/12/how-to-look-at-snow</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><em>This piece is a <a href="http://en.wikipedia.org/wiki/Lipogram">lipogram</a> in which I did not use the letter E (do a Ctrl-F if you don’t believe me). It was immensely challenging, but I had a fun time writing it. Enjoy.</em></p>
@@ -124,9 +124,9 @@ Nothing can approach that first sighting of snow falling softly from a calm gray
   
   <entry>
     <title type="html"><![CDATA[Asking the Difficult Question]]></title>
-    <link href="http://yoursite.com/2012/12/asking-the-difficult-question/"/>
+    <link href="http://www.harveyxia.com/2012/12/asking-the-difficult-question/"/>
     <updated>2012-12-09T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/12/asking-the-difficult-question</id>
+    <id>http://www.harveyxia.com/2012/12/asking-the-difficult-question</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>They bombarded us with warnings about the consequences of irresponsible drinking even before I got to college. The high school principal, teachers, and guidance counselors wanted us to understand that binge drinking is a serious matter — it leads to deaths. When I arrived at Yale, freshman counselors, college deans, and parents sternly reminded us of the same message. This time, they also talked about sexual health and the importance of verbal consent.</p>
@@ -151,9 +151,9 @@ Nothing can approach that first sighting of snow falling softly from a calm gray
   
   <entry>
     <title type="html"><![CDATA[The Little Things]]></title>
-    <link href="http://yoursite.com/2012/11/the-little-things/"/>
+    <link href="http://www.harveyxia.com/2012/11/the-little-things/"/>
     <updated>2012-11-30T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/11/the-little-things</id>
+    <id>http://www.harveyxia.com/2012/11/the-little-things</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>            About to board the plane, I checked my bag for my laptop and passport. Caitlin checked for her stuffed animal—an odd-looking, brown creature called “Domo”—neglecting, among other valuables, an Apple laptop, expensive souvenirs from China, and her family heirloom ring. Teasingly I shook my head and asked, “What would you do if the Domo wasn’t there?” She looked me in the eyes with an expression of terror, deliberately dramatic but also, I think, partly sincere. “I would start bawling like a baby.” she replied. To anyone who doesn’t know her, it would seem odd that she, a college student, considers a child’s toy her most valuable possession. It would seem even more odd that she falls asleep every night clutching Domo to her chest. “He’s cozy and reminds me of home,” she would say so matter-of-factly, as if no further justification were needed.</p>
@@ -202,9 +202,9 @@ Nothing can approach that first sighting of snow falling softly from a calm gray
   
   <entry>
     <title type="html"><![CDATA[Search For Peace – Mccoy Tyner]]></title>
-    <link href="http://yoursite.com/2012/11/search-for-peace-mccoy-tyner/"/>
+    <link href="http://www.harveyxia.com/2012/11/search-for-peace-mccoy-tyner/"/>
     <updated>2012-11-13T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/11/search-for-peace-mccoy-tyner</id>
+    <id>http://www.harveyxia.com/2012/11/search-for-peace-mccoy-tyner</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><img src="http://www.lobosenbolos.com/wp-content/uploads/2012/07/mccoytyner.jpg" alt="" /></p>
@@ -221,9 +221,9 @@ Nothing can approach that first sighting of snow falling softly from a calm gray
   
   <entry>
     <title type="html"><![CDATA[First Semester and Autumn]]></title>
-    <link href="http://yoursite.com/2012/11/first-semester-and-autumn/"/>
+    <link href="http://www.harveyxia.com/2012/11/first-semester-and-autumn/"/>
     <updated>2012-11-13T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/11/first-semester-and-autumn</id>
+    <id>http://www.harveyxia.com/2012/11/first-semester-and-autumn</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>These are some of the pictures I’ve taken with my iPhone 5 recently. Most of them are filtered with Instagram (which really is a great app when it’s not just used to “mupload” the sushi you had last night).</p>
@@ -268,9 +268,9 @@ Nothing can approach that first sighting of snow falling softly from a calm gray
   
   <entry>
     <title type="html"><![CDATA[Without Words]]></title>
-    <link href="http://yoursite.com/2012/10/without-words/"/>
+    <link href="http://www.harveyxia.com/2012/10/without-words/"/>
     <updated>2012-10-04T00:00:00-04:00</updated>
-    <id>http://yoursite.com/2012/10/without-words</id>
+    <id>http://www.harveyxia.com/2012/10/without-words</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><em>The following is meant to be an addendum to my previously posted essay, “The Woods and I, and Her.” A lipogram is a form of writing in which a certain letter or group of letters is suppressed. In this case, I suppressed the letter E. Writing it was enjoyable—for the first ten hours or so.</em></p>
@@ -283,9 +283,9 @@ Nothing can approach that first sighting of snow falling softly from a calm gray
   
   <entry>
     <title type="html"><![CDATA[The Woods and I, and Her]]></title>
-    <link href="http://yoursite.com/2012/09/the-woods-and-i-and-her/"/>
+    <link href="http://www.harveyxia.com/2012/09/the-woods-and-i-and-her/"/>
     <updated>2012-09-28T00:00:00-04:00</updated>
-    <id>http://yoursite.com/2012/09/the-woods-and-i-and-her</id>
+    <id>http://www.harveyxia.com/2012/09/the-woods-and-i-and-her</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><em>“Impossible, I realize, to enter another’s solitude. If it is true that we can ever come to know another human being, even to a small degree, it is only to the extent that he is willing to make himself known.”</em></p>
@@ -324,9 +324,9 @@ Nothing can approach that first sighting of snow falling softly from a calm gray
   
   <entry>
     <title type="html"><![CDATA[Concerning McCullough&#8217;s Speech]]></title>
-    <link href="http://yoursite.com/2012/06/concerning-mcculloughs-speech/"/>
+    <link href="http://www.harveyxia.com/2012/06/concerning-mcculloughs-speech/"/>
     <updated>2012-06-09T00:00:00-04:00</updated>
-    <id>http://yoursite.com/2012/06/concerning-mcculloughs-speech</id>
+    <id>http://www.harveyxia.com/2012/06/concerning-mcculloughs-speech</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>During this past week following Wellesley High School’s Graduation, various commentaries regarding Mr. McCullough’s speech have been posted all over the internet. It even hit the front page of <a href="http://www.reddit.com/r/videos/comments/urz30/youre_not_special_graduation_speech_honest_and/">Reddit</a>. In this day and age, 1700 upvotes and counting on Reddit means that the post might as well be on the front page of the newspaper. But it annoys me that much of the commentary is negative. Although most of these negative reviews seem to surface from the lower echelons of the internet (e.g., “Boston.barstool.sports.com” where one poster said, “But if you don’t think this dude is one more school year away from going postal and shooting up this school, you are outside of your mind”), I think it’s a shame that even a speech presented in such an accessible form through carefully chosen, non-academic words could send contrary messages. It’s clear that McCullough wrote this speech to an audience of all sorts, not only the young intellectual graduates and the parents of a wealthy suburb. He wrote this speech to convey an important and universal message for everybody struggling to find that elusive balance between what one <em>needs</em> to do and what one <em>wants</em> to do in life.</p>
@@ -353,9 +353,9 @@ Nothing can approach that first sighting of snow falling softly from a calm gray
   
   <entry>
     <title type="html"><![CDATA[Mr. McCullough&#8217;s 2012 Commencement Speech]]></title>
-    <link href="http://yoursite.com/2012/06/mr-mcculloughs-2012-commencement-speech/"/>
+    <link href="http://www.harveyxia.com/2012/06/mr-mcculloughs-2012-commencement-speech/"/>
     <updated>2012-06-07T00:00:00-04:00</updated>
-    <id>http://yoursite.com/2012/06/mr-mcculloughs-2012-commencement-speech</id>
+    <id>http://www.harveyxia.com/2012/06/mr-mcculloughs-2012-commencement-speech</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>*After a compelling and rather stern speech by our principal Dr. Keough about the importance of integrity and honesty during my graduation exercises at Wellesley High School, Mr. McCullough, an English teacher, gave a speech that had the audience roaring with laughter and nodding with understanding. His speech lifted our spirits and gave me something to ponder this summer. As I think about my future in all its glorious and frightening uncertainty, Mr. McCullough’s words remind me of what is most important, that “the great and curious truth of the human experience is that selflessness is the best thing you can do for yourself.” He refers to selflessness in the altruistic sense but also to convey the idea that the individual should not treat himself as an end, but rather, as a source. Using the mountain climber analogy, one should “Climb it so you can see the world, not so the world can see you.” This message resonated the strongest with me, the idea that life is lived best through relentless and active “pursuit,” of what is meaningful and applying one’s identity as the ultimate judge of what is worth living for and what isn’t.
@@ -403,9 +403,9 @@ Update: <a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=_lfx
   
   <entry>
     <title type="html"><![CDATA[Reflections on Metaphilosophy: The Role of Philosophy in My Life]]></title>
-    <link href="http://yoursite.com/2012/05/reflections-on-metaphilosophy-the-role-of-philosophy-in-my-life/"/>
+    <link href="http://www.harveyxia.com/2012/05/reflections-on-metaphilosophy-the-role-of-philosophy-in-my-life/"/>
     <updated>2012-05-10T00:00:00-04:00</updated>
-    <id>http://yoursite.com/2012/05/reflections-on-metaphilosophy-the-role-of-philosophy-in-my-life</id>
+    <id>http://www.harveyxia.com/2012/05/reflections-on-metaphilosophy-the-role-of-philosophy-in-my-life</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>I wish I could say that I had a sudden realization, some profound epiphany concerning the human condition. It would be more thrilling for the reader. Unfortunately, the insights that I have reached through philosophy usually come about through a much more gradual, much less dramatic process. In compelling me to alter my understanding and interpretation of the world, the process can be dauntingly uncertain and even painful. I consider this very process of critical thought “philosophy.” But before I continue, I must clarify the meaning of this word. By philosophy, I mean the process of thinking, perceiving, and judging oneself and the world rationally in accordance with empirical knowledge. Philosophy also refers to the study of general and fundamental problems concerning truth, ethics, and human existence. I will address both in this essay. Nowadays people tend to have a negative conception of philosophy. The word invokes images of grand ivory towers situated behind ivy walls. Inside the towers in an oak-paneled room a pretentious old man sits on a gilded armchair, living in luxurious decadence. Out of touch with real world issues and having never encountered adversity, he spends his time contemplating ideas to amuse his intellect. This is not philosophy. In my experience, even educated people frequently misconceive of philosophy as an esoterically useless discipline meant only for an intelligentsia out of touch with the world. Among university students for instance, philosophy is one of the most ridiculed majors, right next to art history and English literature. This attitude towards philosophy has always infuriated me, not only because it shows the underlying ignorance of the believer, but also because of its glaring irony. The course of my life thus far has led me to firmly believe that philosophy is the most practical and necessary of all human disciplines.</p>
@@ -432,9 +432,9 @@ Update: <a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=_lfx
   
   <entry>
     <title type="html"><![CDATA[A Moment of Color]]></title>
-    <link href="http://yoursite.com/2012/01/a-moment-of-color/"/>
+    <link href="http://www.harveyxia.com/2012/01/a-moment-of-color/"/>
     <updated>2012-01-27T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/01/a-moment-of-color</id>
+    <id>http://www.harveyxia.com/2012/01/a-moment-of-color</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>A square of lucid green flickers against the<br/>
@@ -469,9 +469,9 @@ and heart I wonder if I am alone, but suddenly I muse:</p>
   
   <entry>
     <title type="html"><![CDATA[Ruminations on a Sunday Morning]]></title>
-    <link href="http://yoursite.com/2012/01/ruminations-on-a-sunday-morning/"/>
+    <link href="http://www.harveyxia.com/2012/01/ruminations-on-a-sunday-morning/"/>
     <updated>2012-01-24T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/01/ruminations-on-a-sunday-morning</id>
+    <id>http://www.harveyxia.com/2012/01/ruminations-on-a-sunday-morning</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>I know the passive impulse of your words,<br/>
@@ -504,9 +504,9 @@ life.</p>
   
   <entry>
     <title type="html"><![CDATA[Frank O&#8217;Hara]]></title>
-    <link href="http://yoursite.com/2012/01/frank-ohara/"/>
+    <link href="http://www.harveyxia.com/2012/01/frank-ohara/"/>
     <updated>2012-01-22T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/01/frank-ohara</id>
+    <id>http://www.harveyxia.com/2012/01/frank-ohara</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>I first discovered Frank O’Hara while watching Mad Men. The last two stanzas of O’Hara’s poem “Mayakovsky” was recited by Don Draper in this <a href="http://www.youtube.com/watch?v=9XKN0iZG_4s">expressive, melancholic scene.</a> What first struck me was O’Hara’s language; his verse seemed so alive with motion. A combination of a colloquial tone and elevated artistic discourse created a very satisfying effect for me, something I could at once understand and appreciate as profound. Furthermore, his syntax makes his words dance in a way that I haven’t encountered in other poems. His poems are light and easy to move through, as if affected by a certain smooth coherence.</p>
@@ -559,9 +559,9 @@ I love evil</p>
   
   <entry>
     <title type="html"><![CDATA[Response to Hume’s Argument Against the Existence of God]]></title>
-    <link href="http://yoursite.com/2012/01/response-to-hume%e2%80%99s-argument-against-the-existence-of-god/"/>
+    <link href="http://www.harveyxia.com/2012/01/response-to-hume%e2%80%99s-argument-against-the-existence-of-god/"/>
     <updated>2012-01-05T00:00:00-05:00</updated>
-    <id>http://yoursite.com/2012/01/response-to-hume%e2%80%99s-argument-against-the-existence-of-god</id>
+    <id>http://www.harveyxia.com/2012/01/response-to-hume%e2%80%99s-argument-against-the-existence-of-god</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p><em>This is a response to an argument which Hume presents in his “Dialogues Concerning Natural Religion.”</em></p>
@@ -574,9 +574,9 @@ I love evil</p>
   
   <entry>
     <title type="html"><![CDATA[Reflections on the Nature and Importance of Reality]]></title>
-    <link href="http://yoursite.com/2011/10/reflections-on-the-nature-and-importance-of-reality/"/>
+    <link href="http://www.harveyxia.com/2011/10/reflections-on-the-nature-and-importance-of-reality/"/>
     <updated>2011-10-05T00:00:00-04:00</updated>
-    <id>http://yoursite.com/2011/10/reflections-on-the-nature-and-importance-of-reality</id>
+    <id>http://www.harveyxia.com/2011/10/reflections-on-the-nature-and-importance-of-reality</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>I wrote this partially in response to Lyle Zynda’s “The Nature of Reality and Why It Matters.”</p>
@@ -593,9 +593,9 @@ I love evil</p>
   
   <entry>
     <title type="html"><![CDATA[Response to Carl Jung&#8217;s Concept of the Collective Unconscious]]></title>
-    <link href="http://yoursite.com/2011/09/response-to-carl-jungs-concept-of-the-collective-unconscious/"/>
+    <link href="http://www.harveyxia.com/2011/09/response-to-carl-jungs-concept-of-the-collective-unconscious/"/>
     <updated>2011-09-10T00:00:00-04:00</updated>
-    <id>http://yoursite.com/2011/09/response-to-carl-jungs-concept-of-the-collective-unconscious</id>
+    <id>http://www.harveyxia.com/2011/09/response-to-carl-jungs-concept-of-the-collective-unconscious</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>For my English class we had to read and respond to an <a href="http://www.carl-jung.net/collective_unconscious.html">interesting article</a>.</p>
@@ -612,9 +612,9 @@ I love evil</p>
   
   <entry>
     <title type="html"><![CDATA[On the Nature of Selfishness]]></title>
-    <link href="http://yoursite.com/2011/09/on-the-nature-of-selfishness/"/>
+    <link href="http://www.harveyxia.com/2011/09/on-the-nature-of-selfishness/"/>
     <updated>2011-09-01T00:00:00-04:00</updated>
-    <id>http://yoursite.com/2011/09/on-the-nature-of-selfishness</id>
+    <id>http://www.harveyxia.com/2011/09/on-the-nature-of-selfishness</id>
     <content type="html"><![CDATA[<h1></h1>
 
 <p>I’m sure many have encountered the idea that “Communism fails in practice because humans are inherently selfish.” I tend to get annoyed whenever somebody says this (especially if they declare it with an attitude of intellectualism, as if to show off the understanding of an incredibly advanced philosophical concept), for two reasons. First, the saying is cliche. Second, this concept is too easy; it’s an answer that blindly undermines the complexity of human nature. If I wanted to be pompous, I could say that believers of this idea lack a basic understanding of humanity. But, because this contradicts the spirit of the claim itself, I will refrain. In this post, I explore the second reason.</p>
