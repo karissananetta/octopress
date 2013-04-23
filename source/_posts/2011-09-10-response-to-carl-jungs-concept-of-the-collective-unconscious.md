@@ -2,6 +2,7 @@
 title: 'Response to Carl Jung&#8217;s Concept of the Collective Unconscious'
 author: harvey
 layout: post
+comments: true
 categories:
   - Philosophy
 tags:

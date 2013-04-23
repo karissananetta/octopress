@@ -2,6 +2,7 @@
 title: Asking the Difficult Question
 author: harvey
 layout: post
+comments: true
 categories:
   - Essays
 tags:

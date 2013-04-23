@@ -2,6 +2,7 @@
 title: 'Reflections on Metaphilosophy: The Role of Philosophy in My Life'
 author: harvey
 layout: post
+comments: true
 categories:
   - Essays
   - Philosophy

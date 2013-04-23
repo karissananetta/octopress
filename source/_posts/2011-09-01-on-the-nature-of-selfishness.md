@@ -2,6 +2,7 @@
 title: On the Nature of Selfishness
 author: harvey
 layout: post
+comments: true
 jabber_published:
   - 1309307549
 categories:

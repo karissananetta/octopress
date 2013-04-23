@@ -2,6 +2,7 @@
 title: Reflections on the Nature and Importance of Reality
 author: harvey
 layout: post
+comments: true
 categories:
   - Philosophy
 tags:

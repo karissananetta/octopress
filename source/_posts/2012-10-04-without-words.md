@@ -2,6 +2,7 @@
 title: Without Words
 author: harvey
 layout: post
+comments: true
 categories:
   - Essays
 tags:

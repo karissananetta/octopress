@@ -68,7 +68,7 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -86,10 +86,10 @@ delicious_count: 3
 
 # Disqus Comments
 disqus_short_name: harveyxia
-disqus_show_comment_count: true
+disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-25655664-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true

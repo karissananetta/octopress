@@ -2,6 +2,7 @@
 title: 'Brad Mehldau&#8217;s &#8220;My Favorite Things&#8221;'
 author: harvey
 layout: post
+comments: true
 categories:
   - Listening
 ---

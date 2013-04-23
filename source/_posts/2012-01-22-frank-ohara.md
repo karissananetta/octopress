@@ -2,6 +2,7 @@
 title: 'Frank O&#8217;Hara'
 author: harvey
 layout: post
+comments: true
 categories:
   - Essays
   - Poetry

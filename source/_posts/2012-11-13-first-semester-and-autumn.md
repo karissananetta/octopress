@@ -2,6 +2,7 @@
 title: First Semester and Autumn
 author: harvey
 layout: post
+comments: true
 categories:
   - Photography
 ---

@@ -2,6 +2,7 @@
 title: An Aristocratic Qualm Concerning Aristocracy
 author: harvey
 layout: post
+comments: true
 jabber_published:
   - 1310337307
 email_notification:
