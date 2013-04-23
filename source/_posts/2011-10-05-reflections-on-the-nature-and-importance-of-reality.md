@@ -2,7 +2,6 @@
 title: Reflections on the Nature and Importance of Reality
 author: harvey
 layout: post
-permalink: /2011/10/reflections-on-the-nature-and-importance-of-reality/
 categories:
   - Philosophy
 tags:

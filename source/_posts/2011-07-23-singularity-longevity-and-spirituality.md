@@ -2,7 +2,6 @@
 title: The Singularity
 author: harvey
 layout: post
-permalink: /2011/07/singularity-longevity-and-spirituality/
 draftfeedback_requests:
   - 'a:1:{s:23:"cody.d.obrien@gmail.com";a:3:{s:3:"key";s:13:"4e2b259bee782";s:4:"time";s:10:"1311450523";s:7:"user_id";s:8:"24387590";}}'
 jabber_published:

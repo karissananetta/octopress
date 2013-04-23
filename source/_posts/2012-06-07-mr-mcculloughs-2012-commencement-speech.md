@@ -2,7 +2,6 @@
 title: 'Mr. McCullough&#8217;s 2012 Commencement Speech'
 author: harvey
 layout: post
-permalink: /2012/06/mr-mcculloughs-2012-commencement-speech/
 categories:
   - Essays
 tags:

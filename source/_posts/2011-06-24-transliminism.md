@@ -2,7 +2,6 @@
 title: Transliminism Part I
 author: harvey
 layout: post
-permalink: /2011/06/transliminism/
 jabber_published:
   - 1308935433
 categories:

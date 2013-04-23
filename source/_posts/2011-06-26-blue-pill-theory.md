@@ -2,7 +2,6 @@
 title: Blue Pill Theory
 author: harvey
 layout: post
-permalink: /2011/06/blue-pill-theory/
 draftfeedback_requests:
   - 'a:1:{s:23:"cody.d.obrien@gmail.com";a:3:{s:3:"key";s:13:"4e07d2629e3ea";s:4:"time";s:10:"1309135458";s:7:"user_id";s:8:"24387590";}}'
 draft_feedback:

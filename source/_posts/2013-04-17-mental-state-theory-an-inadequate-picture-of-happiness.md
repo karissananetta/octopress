@@ -2,7 +2,6 @@
 title: 'Mental State Theory: An Inadequate Picture of Happiness'
 author: harvey
 layout: post
-permalink: /2013/04/mental-state-theory-an-inadequate-picture-of-happiness/
 categories:
   - Philosophy
 ---

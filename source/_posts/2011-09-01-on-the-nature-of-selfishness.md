@@ -2,7 +2,6 @@
 title: On the Nature of Selfishness
 author: harvey
 layout: post
-permalink: /2011/09/on-the-nature-of-selfishness/
 jabber_published:
   - 1309307549
 categories:

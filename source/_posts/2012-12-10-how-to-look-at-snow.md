@@ -2,7 +2,6 @@
 title: How to Look at Snow
 author: harvey
 layout: post
-permalink: /2012/12/how-to-look-at-snow/
 categories:
   - Essays
 ---

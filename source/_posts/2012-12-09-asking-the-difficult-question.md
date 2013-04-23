@@ -2,7 +2,6 @@
 title: Asking the Difficult Question
 author: harvey
 layout: post
-permalink: /2012/12/asking-the-difficult-question/
 categories:
   - Essays
 tags:

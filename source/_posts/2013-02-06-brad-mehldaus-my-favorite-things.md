@@ -2,7 +2,6 @@
 title: 'Brad Mehldau&#8217;s &#8220;My Favorite Things&#8221;'
 author: harvey
 layout: post
-permalink: /2013/02/brad-mehldaus-my-favorite-things/
 categories:
   - Listening
 ---

@@ -2,7 +2,6 @@
 title: Ruminations on a Sunday Morning
 author: harvey
 layout: post
-permalink: /2012/01/ruminations-on-a-sunday-morning/
 categories:
   - Poetry
 ---

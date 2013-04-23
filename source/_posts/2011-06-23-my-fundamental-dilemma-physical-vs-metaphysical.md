@@ -2,7 +2,6 @@
 title: 'My Fundamental Dilemma: Physical vs. Metaphysical'
 author: harvey
 layout: post
-permalink: /2011/06/my-fundamental-dilemma-physical-vs-metaphysical/
 jabber_published:
   - 1308860778
 categories:

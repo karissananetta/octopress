@@ -2,7 +2,6 @@
 title: A Moment of Color
 author: harvey
 layout: post
-permalink: /2012/01/a-moment-of-color/
 categories:
   - Poetry
 ---

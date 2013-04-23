@@ -2,7 +2,6 @@
 title: The Little Things
 author: harvey
 layout: post
-permalink: /2012/11/the-little-things/
 categories:
   - Essays
 tags:

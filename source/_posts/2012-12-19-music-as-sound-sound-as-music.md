@@ -2,7 +2,6 @@
 title: Music as Sound, Sound as Music
 author: harvey
 layout: post
-permalink: /2012/12/music-as-sound-sound-as-music/
 categories:
   - Essays
   - Listening

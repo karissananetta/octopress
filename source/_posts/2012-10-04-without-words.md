@@ -2,7 +2,6 @@
 title: Without Words
 author: harvey
 layout: post
-permalink: /2012/10/without-words/
 categories:
   - Essays
 tags:

@@ -2,7 +2,6 @@
 title: Response to Hume’s Argument Against the Existence of God
 author: harvey
 layout: post
-permalink: /2012/01/response-to-hume%e2%80%99s-argument-against-the-existence-of-god/
 categories:
   - Philosophy
 tags:

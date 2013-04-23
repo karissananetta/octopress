@@ -2,7 +2,6 @@
 title: 'Frank O&#8217;Hara'
 author: harvey
 layout: post
-permalink: /2012/01/frank-ohara/
 categories:
   - Essays
   - Poetry

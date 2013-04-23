@@ -2,7 +2,6 @@
 title: 'Concerning McCullough&#8217;s Speech'
 author: harvey
 layout: post
-permalink: /2012/06/concerning-mcculloughs-speech/
 categories:
   - Essays
 tags:

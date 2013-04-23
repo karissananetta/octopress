@@ -2,7 +2,6 @@
 title: Search For Peace – Mccoy Tyner
 author: harvey
 layout: post
-permalink: /2012/11/search-for-peace-mccoy-tyner/
 categories:
   - Listening
 tags:

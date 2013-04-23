@@ -2,7 +2,6 @@
 title: The Woods and I, and Her
 author: harvey
 layout: post
-permalink: /2012/09/the-woods-and-i-and-her/
 categories:
   - Essays
 tags:
