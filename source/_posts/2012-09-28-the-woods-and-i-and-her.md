@@ -21,7 +21,7 @@ Caitlin suggested that we walk around Lake Waban at Wellesley College. Tucked in
 
 And so we met on an early summer evening, each of us about to embark on a walk with a near stranger. The air felt cozy, somewhere in between the heavy humidity of late summer and the sharp dryness of autumn. The moderate temperature and slight chill of the breeze vivified my senses. It was about an hour to sunset. I heard nothing except the crickets and their evening songs. She was waiting for me, sitting on a bench looking out at the lake. I noticed how comfortable she looked, hands folded neatly in her lap and eyes focused on some distant point. She was wearing a white sundress embellished with red flowers, matched with a brown braided belt and flip flops.
 
-She looked lovely.
+She looked very pretty.
 
 “Ready?” she asked.
 
@@ -31,14 +31,10 @@ It felt liberating, but I didn’t immediately understand why. Further reflectio
 
 At the end of the trail an elegantly stonewalled terrace overlooked the entire lake. Together we sat down on top of the wall, legs dangling above the water. “Isn’t this amazing?” she said, gazing up at the warm colors casted by the setting sun, a dazzling array of pinks, reds, purples, and blues. No other words were spoken. For the first time it felt as though someone else was witnessing beauty in a way that resonated with me. Her presence was something tangible that made the world around me appear more vivid. Ironically, she was the very “distraction” that I had always dreaded because I couldn’t help but marvel at her more than the sunset, but, contrary to the suspicions of my old attitude, she did not dilute the aesthetic experience. She unabashedly returned my glances, her dark brown hair and eyes reflecting the rich colors of the sky.
 
-But I do not intend for this to be a story about love or what I consider to be true love. Nor do I intend that this be a story about how I met the most beautiful girl in the world. This is a story about how a romantic connection brought me to realize that profound feelings are enhanced when mutually appreciated.
+But I do not intend for this to be a story about love or what I consider to be true love. Nor do I intend that this be a story about how I met the most beautiful girl in the world. This is a story about how a romantic connection brought me to realize that profound feelings, when mutually appreciated, are more vivid, more memorable, and more meaningful.
 
 The whole evening had been building up to this moment, a realization of such clarity that it left no room for skepticism. The feeling was more than just intellectual though. As I sat there looking out over a most perfect landscape, I felt invigorated with a feeling of deep aesthetic appreciation. Here I learned that the meaning of beauty gains a new dimension when mutually understood and freed from the limiting window of subjectivity. The moment felt sacred. Thus my lifelong assumptions about the truest happiness being exclusively personal fell apart. We spent the rest of summer together making memories gazing at the stars, eating ice cream, swimming in the ocean, activities that would’ve been mundane and easily forgotten had I done them alone. Months later, we sometimes walked the same path around the lake, recalling that night like it was yesterday.
 
 Nowadays, being away from her at college, I look for other people to share moments of beauty with – something proving to be incredibly difficult, again because I am constantly looking for something else, something beyond ordinary expectations. Perhaps I am falling into the confines of an attitude similar to the one I overcame as I increasingly find myself wishing that I could share it with her and part of me wanting to share it *only*with her. But then again, perhaps her ability to relate to me is singular. Perhaps this, this irreplaceability of one’s company, is what love is. She is, after all, the girl who showed me that happiness is most meaningful when shared.
 
-[![][2]][2]
-
- 
-
- []: http://www.harveyxia.com/wordpress/wp-content/uploads/2012/09/photo21.jpg
+<img src="/images/caitlin.jpg" style="width:500px;">

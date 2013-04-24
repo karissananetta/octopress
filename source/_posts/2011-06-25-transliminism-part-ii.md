@@ -11,29 +11,24 @@ categories:
 tags:
   - transliminism
 ---
-# 
-
 In the philosophy of Transliminism, humans possess the potential to differentiate life from death by reaching a metaphysical realm. The stakes of achieving this differentiation are enormous, for it lends meaning to our existence. Otherwise, humans would essentially be amoebas, organisms whose existence are purely physical, an existence able to be boiled down to simple science.
 
 In this post I shall elaborate on the journey to reaching a metaphysical realm. Keep in mind for this post, as well as all posts on this blog, that I am merely speculating based on my limited experiences and time alive. Take this for what you wish.
 
-[![][2]][2]
-
- []: http://www.harveyxia.com/wordpress/wp-content/uploads/2011/06/meaning-graph-journey.png
+<img src="/images/meaning-graph-journey.png" style="width:500px;">
 
 **1. Nonexistence**
 
-****At this stage, the individual has not yet been born. Since he does not exist, his metaphysical level of function remains at the neutral level, or the “amoeba line.”
+At this stage, the individual has not yet been born. Since he does not exist, his metaphysical level of function remains at the neutral level, or the “amoeba line.”
+
+<img src="/images/meaning-graph-1024x587.png" style="width:500px;">
+
 
 **2. Birth**
 
-****The individual is born. Now possessing a consciousness, he is able to function metaphysically to some degree.
+The individual is born. Now possessing a consciousness, he is able to function metaphysically to some degree.
 
 **3. Awareness and Descent**
-
-![][2]
-
- [2]: http://www.google.com/url?source=imgres&ct=img&q=http://gorillaartfare.com/wp-content/uploads/2009/02/cognition_thinker25final1.jpg&sa=X&ei=XU0GTtycFOfk0QGSy4HJCw&ved=0CAQQ8wc4IA&usg=AFQjCNEpgWY28YOID2UYCv8_RoksZaf6Mg
 
 It is my belief that before anyone can discover meaning, they must first be disillusioned the the vacuum of meaning present in society and the monotony of everyday life. This relates to the [existentialist ][3]belief that life is inherently meaningless. The universe was not created to answer the struggles of man. Therefore, embarking on the journey for meaning poses a risk, that of relinquishing blissful ignorance and having the truth of a meaningless environment thrust upon oneself. The complacent ease of an amoeban lifestyle cannot be repossessed by natural choice. Like the concept of innocence, ignorance, when lost, is lost forever.
 

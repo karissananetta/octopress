@@ -1,5 +1,5 @@
 ---
-title: Transliminism Part I
+title: Transliminism Part I 
 layout: post
 comments: true
 jabber_published:
@@ -17,9 +17,9 @@ Let us begin by asking the question, “What is the value of human life?” Don�
 
  [1]: http://en.wikipedia.org/wiki/Amoeba_(genus)
 
-[![][3]][3]
+![][2]
 
- []: http://www.harveyxia.com/wordpress/wp-content/uploads/2011/06/meaning-graph.png
+ [2]: http://www.harveyxia.com/wordpress/wp-content/uploads/2011/06/meaning-graph.png
 
 Because the amoeba lacks a consciousness, which I believe is the only link to the metaphysical realm that we currently know of, it remains at the base level of metaphysical meaning. Whether dead or alive, existing or nonexistent, the amoeba will always remain at that basic threshold. What characterizes amoeban life is the presence of a biological reaction that controls everything it does.
 
