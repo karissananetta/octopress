@@ -1,6 +1,5 @@
 ---
 title: Response to Hume’s Argument Against the Existence of God
-author: harvey
 layout: post
 comments: true
 categories:

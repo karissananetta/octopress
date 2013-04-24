@@ -1,6 +1,5 @@
 ---
 title: Blue Pill Theory
-author: harvey
 layout: post
 comments: true
 draftfeedback_requests:

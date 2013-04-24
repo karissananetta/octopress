@@ -1,6 +1,5 @@
 ---
 title: 'My Fundamental Dilemma: Physical vs. Metaphysical'
-author: harvey
 layout: post
 comments: true
 jabber_published:

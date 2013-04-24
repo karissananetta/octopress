@@ -1,6 +1,5 @@
 ---
 title: 'Mental State Theory: An Inadequate Picture of Happiness'
-author: harvey
 layout: post
 comments: true
 categories:

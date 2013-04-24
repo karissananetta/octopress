@@ -1,6 +1,5 @@
 ---
 title: On the Nature of Selfishness
-author: harvey
 layout: post
 comments: true
 jabber_published:

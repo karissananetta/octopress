@@ -1,6 +1,5 @@
 ---
 title: 'Concerning McCullough&#8217;s Speech'
-author: harvey
 layout: post
 comments: true
 categories:

@@ -1,6 +1,5 @@
 ---
 title: Search For Peace – Mccoy Tyner
-author: harvey
 layout: post
 comments: true
 categories:

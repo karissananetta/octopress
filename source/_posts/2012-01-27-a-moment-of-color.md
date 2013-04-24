@@ -1,6 +1,5 @@
 ---
 title: A Moment of Color
-author: harvey
 layout: post
 comments: true
 categories:

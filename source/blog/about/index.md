@@ -1,6 +1,5 @@
 ---
 title: About
-author: harvey
 layout: page
 ---
 # 

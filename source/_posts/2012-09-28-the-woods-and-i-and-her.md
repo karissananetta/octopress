@@ -1,6 +1,5 @@
 ---
 title: The Woods and I, and Her
-author: harvey
 layout: post
 comments: true
 categories:

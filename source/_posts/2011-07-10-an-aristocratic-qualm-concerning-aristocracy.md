@@ -1,6 +1,5 @@
 ---
 title: An Aristocratic Qualm Concerning Aristocracy
-author: harvey
 layout: post
 comments: true
 jabber_published:

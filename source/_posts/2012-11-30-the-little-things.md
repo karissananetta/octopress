@@ -1,6 +1,5 @@
 ---
 title: The Little Things
-author: harvey
 layout: post
 comments: true
 categories:

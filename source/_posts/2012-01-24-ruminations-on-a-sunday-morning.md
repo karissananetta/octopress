@@ -1,6 +1,5 @@
 ---
 title: Ruminations on a Sunday Morning
-author: harvey
 layout: post
 comments: true
 categories:

@@ -1,6 +1,5 @@
 ---
 title: The Singularity
-author: harvey
 layout: post
 comments: true
 draftfeedback_requests:

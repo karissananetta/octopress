@@ -1,6 +1,5 @@
 ---
 title: Transliminism Part I
-author: harvey
 layout: post
 comments: true
 jabber_published:

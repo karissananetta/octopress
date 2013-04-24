@@ -1,6 +1,5 @@
 ---
 title: 'Mr. McCullough&#8217;s 2012 Commencement Speech'
-author: harvey
 layout: post
 comments: true
 categories:

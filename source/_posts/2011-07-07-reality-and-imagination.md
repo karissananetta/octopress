@@ -1,6 +1,5 @@
 ---
 title: Reality and Imagination
-author: harvey
 layout: post
 comments: true
 draftfeedback_requests:

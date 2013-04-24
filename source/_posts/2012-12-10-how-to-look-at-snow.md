@@ -1,6 +1,5 @@
 ---
 title: How to Look at Snow
-author: harvey
 layout: post
 comments: true
 categories:

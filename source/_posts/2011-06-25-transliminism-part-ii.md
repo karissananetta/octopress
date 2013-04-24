@@ -1,6 +1,5 @@
 ---
 title: Transliminism Part II
-author: harvey
 layout: post
 comments: true
 draftfeedback_requests:

@@ -1,6 +1,5 @@
 ---
 title: Music
-author: harvey
 layout: page
 ---
 # 
