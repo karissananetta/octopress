@@ -103,7 +103,8 @@ aside.sidebar {
   @extend .group;
 }
 
-.flex-content { max-width: 100%; height: auto; }
+//add "height: auto;" to preserve dimensions of thumbnails
+.flex-content { max-width: 100%; }
 
 .basic-alignment {
   &.left { float: left; margin-right: 1.5em; }

@@ -10,8 +10,26 @@
 # [1]: http://fancyapps.com/fancybox/
 # [2]: http://tritarget.org/blog/2012/05/07/integrating-photos-into-octopress-using-fancybox-and-plugin/
 #
-# Syntax {% photo filename [tumbnail] [title] %}
-# Syntax {% photos filename [filename] [filename] [...] %}
+# Syntax:
+#   The photo tag can take up to six parameters. Order is important, and the text at the end 
+#   of the parameter list is assumed to be the alt tag text. The first two tokens are the 
+#   image filename and thumbnail filename. Next is a square-bracketed list of comma-delimited
+#   CSS class selectors, followed by an optional width and height, expressed as integers 
+#   separated by an x. The remaining text is always the alt tag text. The style list can be
+#   left blank or omittted. Width and height are entirely optional as well.
+#
+#  {% photo filename %}
+#  {% photo filename thumbnail_filename %}
+#  {% photo filename thumbnail_filename [sytle, style] %}
+#  {% photo filename thumbnail_filename [sytle, style] 300x200 %}
+#  {% photo filename thumbnail_filename [] 300x200 %}
+#  {% photo filename thumbnail_filename 300x200 %}
+#  {% photo filename thumbnail_filename [sytle, style] 300x200 alt tag text %}
+#  {% photo filename thumbnail_filename 300x200 alt tag text %}
+#  {% photo filename thumbnail_filename [] 300x200 alt tag text %}
+#  {% photo filename thumbnail_filename alt tag text %}
+#  {% photo filename thumbnail_filename [] alt tag text %}
+#
 # If the filename has no path in it (no slashes)
 # then it will prefix the `_config.yml` setting `photos_prefix` to the path.
 # This allows using a CDN if desired.
@@ -56,42 +74,48 @@ module Jekyll
 
     def thumb_for(filename, thumb=nil)
       filename = filename.strip
-      # FIXME: This seems excessive
-      if filename =~ /\./
-        thumb = (thumb unless thumb == 'default') || filename.gsub(/(?:_b)?\.(?<ext>[^\.]+)?$/, "_m.\\k<ext>")
-      else
-        thumb = (thumb unless thumb == 'default') || "#{filename}_m"
-      end
-      path_for(thumb)
+      # FIXED: replaced thumbnail with file
+      # if filename =~ /\./
+      #   thumb = (thumb unless thumb == 'default') || filename.gsub(/(?:_b)?\.(?<ext>[^\.]+)?$/, "_m.\\k<ext>")
+      # else
+      #   thumb = (thumb unless thumb == 'default') || "#{filename}_m"
+      # end
+      path_for(filename)
     end
   end
 
   class FancyboxStylePatch < Liquid::Tag
     def render(context)
       return <<-eof
-<!-- Fix FancyBox style for OctoPress -->
-<style type="text/css">
-  .fancybox-wrap { position: fixed !important; }
-  .fancybox-opened {
-    -webkit-border-radius: 4px !important;
-       -moz-border-radius: 4px !important;
-            border-radius: 4px !important;
-  }
-  .fancybox-close, .fancybox-prev span, .fancybox-next span {
-    background-color: transparent !important;
-    border: 0 !important;
-  }
-</style>
+      <!-- Fix FancyBox style for OctoPress -->
+      <style type="text/css">
+      .fancybox-wrap { position: fixed !important; }
+      .fancybox-opened {
+        -webkit-border-radius: 4px !important;
+        -moz-border-radius: 4px !important;
+        border-radius: 4px !important;
+      }
+      .fancybox-close, .fancybox-prev span, .fancybox-next span {
+        background-color: transparent !important;
+        border: 0 !important;
+      }
+      </style>
       eof
     end
   end
 
   class PhotoTag < Liquid::Tag
     def initialize(tag_name, markup, tokens)
-      if /(?<filename>\S+)(?:\s+(?<thumb>\S+))?(?:\s+(?<title>.+))?/i =~ markup
+      puts tag_name
+      puts markup
+      puts tokens
+      if /(?<filename>\S+)(?:\s+(?<thumb>\S+))?(?:\s+\[(?<styles>[\w,]*)\])?((?:\s+(?<width>\d+)?)x(?<height>\d+))?(?:\s+(?<title>.+))?/i =~ markup
         @filename = filename
         @thumb = thumb
         @title = title
+        @styles = styles
+        @width = width
+        @height = height
       end
       super
     end
@@ -99,7 +123,18 @@ module Jekyll
     def render(context)
       p = PhotosUtil.new(context)
       if @filename
-        "<a href=\"#{p.path_for(@filename)}\" class=\"fancybox\" title=\"#{@title}\"><img src=\"#{p.thumb_for(@filename,@thumb)}\" alt=\"#{@title}\" /></a>"
+        if @width then 
+          dimensions = "width=\"#{@width}\" height=\"#{@height}\"" 
+        else
+          dimensions = ""
+        end
+ 
+        classes = ["fancybox"]
+        if @styles then 
+          classes += @styles.split(",")
+        end
+        
+        "<a href=\"#{p.path_for(@filename)}\" class=\"#{classes.join(" ")}\" title=\"#{@title}\"><img src=\"#{p.thumb_for(@filename,@thumb)}\" #{dimensions} alt=\"#{@title}\" /></a>"
       else
         "Error processing input, expected syntax: {% photo filename [thumbnail] [title] %}"
       end
