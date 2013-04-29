@@ -19,6 +19,6 @@ Perhaps the most tangible examples of the Hacker Aesthetic are modern websites. 
 
 Less obvious to people who haven't had experience with programming is the simple fact that well written code just looks good. This is what my text editor looks like with code.
 
-{% photo /images/code.png [] 500x250 %}
+{% photo /images/code.png [] 500x400 %}
 
 So for now, the plan is to keep exploring computer programming and, along the way, enjoy the beauty of the Hacker's Aesthetic.

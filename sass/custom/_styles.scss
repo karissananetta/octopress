@@ -1,6 +1,17 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+.fixed {
+	position: fixed;
+	top: 0;
+	z-index: 2000;
+	width: 850px;
+	// ms-box-shadow: 0 4px 15px -5px #555;
+	// -moz-box-shadow: 0 4px 15px -5px #555;
+	// -o-box-shadow: 0 4px 15px -5px #555;
+	// -webkit-box-shadow: 0 4px 15px -5px #555;
+}
+
 $white: #FFFFFF;
 
 html {
