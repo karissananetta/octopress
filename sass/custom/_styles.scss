@@ -5,11 +5,18 @@
 	position: fixed;
 	top: 0;
 	z-index: 2000;
-	width: 850px;
+	width: 100%;
+	border-top: none;
 	// ms-box-shadow: 0 4px 15px -5px #555;
 	// -moz-box-shadow: 0 4px 15px -5px #555;
 	// -o-box-shadow: 0 4px 15px -5px #555;
 	// -webkit-box-shadow: 0 4px 15px -5px #555;
+}
+
+.nav-bar-content {
+	max-width: 850px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 $white: #FFFFFF;
@@ -21,9 +28,9 @@ html {
 body {
 	font-family: "Open Sans" !important;
 	font-size: 1em;
-	max-width: 850px;
-	padding-left: 0.5em;
-	padding-right: 0.5em;
+	max-width: 100%;
+	// padding-left: 0.5em;
+	// padding-right: 0.5em;
 
 	> header {
 		background: $white;
@@ -40,8 +47,9 @@ body {
 	}
 
 	> nav {
-		background: $white;
-		border-bottom: 1px solid #F2F2F2;
+		background: rgb(231, 231, 231);
+		border-top: 1px solid #ccc;
+		border-bottom: 1px solid #ccc;
 		padding-left: 0px;
 		padding-right: 0px;
 
@@ -53,6 +61,7 @@ body {
 			padding-bottom: 0.3em;
 			padding-left: 0.5em;
 			padding-right: 0.5em;
+			background: white;
 		}
 
 		a {
@@ -60,6 +69,7 @@ body {
 			font-size: 0.9em;
 			padding-top: 0.3em;
 			line-height: 1.5em;
+			color: #305eba;
 		}
 
 		li + li {
@@ -85,8 +95,8 @@ body {
 		background: $white;
 		text-shadow: none;
 		color: #AAAAAA;
-	  	padding-left: 0;
-	  	padding-right: 0;
+		padding-left: 0;
+		padding-right: 0;
 		border-top: 0px;
 		padding-left: 0px;
 		padding-right: 0px;
@@ -154,7 +164,7 @@ article {
 
 			header {
 				padding-left: 0;
-  				padding-right: 0;
+				padding-right: 0;
 			}
 		}
 
@@ -204,14 +214,14 @@ aside {
 /* FancyBox Galleries */
 $rad: 6px;
 ul.gallery {
-  border: thin solid gray;
-  -webkit-border-radius: $rad;
-  -moz-border-radius: $rad;
-  border-radius: $rad;
-  text-align: center;
-  padding: 5px;
-  li {
-    display: inline;
-    padding: 5px;
-  }
+	border: thin solid gray;
+	-webkit-border-radius: $rad;
+	-moz-border-radius: $rad;
+	border-radius: $rad;
+	text-align: center;
+	padding: 5px;
+	li {
+		display: inline;
+		padding: 5px;
+	}
 }
