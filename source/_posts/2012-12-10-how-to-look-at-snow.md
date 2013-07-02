@@ -4,6 +4,7 @@ layout: post
 comments: true
 categories:
   - Essays
+  - Featured
 ---
 # 
 

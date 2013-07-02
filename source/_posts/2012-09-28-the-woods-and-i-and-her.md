@@ -4,6 +4,7 @@ layout: post
 comments: true
 categories:
   - Essays
+  - Featured
 tags:
   - personal essay
 ---
@@ -35,6 +36,6 @@ But I do not intend for this to be a story about love or what I consider to be t
 
 The whole evening had been building up to this moment, a realization of such clarity that it left no room for skepticism. The feeling was more than just intellectual though. As I sat there looking out over a most perfect landscape, I felt invigorated with a feeling of deep aesthetic appreciation. Here I learned that the meaning of beauty gains a new dimension when mutually understood and freed from the limiting window of subjectivity. The moment felt sacred. Thus my lifelong assumptions about the truest happiness being exclusively personal fell apart. We spent the rest of summer together making memories gazing at the stars, eating ice cream, swimming in the ocean, activities that would’ve been mundane and easily forgotten had I done them alone. Months later, we sometimes walked the same path around the lake, recalling that night like it was yesterday.
 
-Nowadays, being away from her at college, I look for other people to share moments of beauty with – something proving to be incredibly difficult, again because I am constantly looking for something else, something beyond ordinary expectations. Perhaps I am falling into the confines of an attitude similar to the one I overcame as I increasingly find myself wishing that I could share it with her and part of me wanting to share it *only*with her. But then again, perhaps her ability to relate to me is singular. Perhaps this, this irreplaceability of one’s company, is what love is. She is, after all, the girl who showed me that happiness is most meaningful when shared.
+Nowadays, being away from her at college, I look for other people to share moments of beauty with – something proving to be incredibly difficult, again because I am constantly looking for something else, something beyond ordinary expectations. Perhaps I am falling into the confines of an attitude similar to the one I overcame as I increasingly find myself wishing that I could share it with her and part of me wanting to share it *only* with her. But then again, perhaps her ability to relate to me is singular. Perhaps this, this irreplaceability of one’s company, is what love is. She is, after all, the girl who showed me that happiness is most meaningful when shared.
 
 <img src="/images/caitlin.jpg" style="width:500px;">
