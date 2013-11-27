@@ -205,6 +205,9 @@ article {
 			max-width: 100%;
 			padding: 4px;
 			@include box-shadow(0 0 0px 1px $gray);
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
 			}
 			
 		.word1,
