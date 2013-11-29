@@ -46,10 +46,5 @@ The most salient point I hoped to articulate was this: creative, self-reflective
 And just as importantly, pursuing experiences to get to know myself and the world. Chasing those experiences that keep alive our innate sensibility to the beauty of the world, a sensibility that dulls with age and with time. Revolting against the incessant demands of practicality as a proud romantic, eyes directed toward the sublime. Because what is it all for if we can no longer dream?
 
 {% footnotes %}
-  {% fn %} [Once More to the Lake by E.B. White](http://www.freewebs.com/lanzbom/EBWhiteLakeEssay.pdf) <br>
-        [Kenyon Commencement Speech by David Foster Wallace](http://web.ics.purdue.edu/~drkelly/DFWKenyonAddress2005.pdf) <br>
-        [Wellesley High School 2012 Commencement Speech by David McCullough Jr.](http://www.harveyxia.com/mr-mcculloughs-2012-commencement-speech/) <br>
-        [You Should Date an Illiterate Girl by Charles Warnke](http://thoughtcatalog.com/charles-warnke/2011/01/dont-date-a-girl-who-reads/) <br>
-        [The Referendum by Tim Kreider](http://opinionator.blogs.nytimes.com/2009/09/17/the-referendum/?_r=1) <br>
-        [Meltdown by Lydia K.](http://mitadmissions.org/blogs/entry/meltdown)
+  {% fn %} [Once More to the Lake by E.B. White](http://www.freewebs.com/lanzbom/EBWhiteLakeEssay.pdf) <br> [Kenyon Commencement Speech by David Foster Wallace](http://web.ics.purdue.edu/~drkelly/DFWKenyonAddress2005.pdf) <br> [Wellesley High School 2012 Commencement Speech by David McCullough Jr.](http://www.harveyxia.com/mr-mcculloughs-2012-commencement-speech/) <br> [You Should Date an Illiterate Girl by Charles Warnke](http://thoughtcatalog.com/charles-warnke/2011/01/dont-date-a-girl-who-reads/) <br> [The Referendum by Tim Kreider](http://opinionator.blogs.nytimes.com/2009/09/17/the-referendum/?_r=1) <br> [Meltdown by Lydia K.](http://mitadmissions.org/blogs/entry/meltdown) <br>
 {% endfootnotes%}

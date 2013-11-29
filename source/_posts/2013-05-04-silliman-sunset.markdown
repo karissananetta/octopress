@@ -7,4 +7,4 @@ categories:
  - Photography
 ---
 
-{% photo /images/silliman.JPG [] 700x600 %}
+{% img /images/silliman.JPG 700x600 %}
