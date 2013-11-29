@@ -75,7 +75,8 @@ h2 {
 
 header {
 	// margin-bottom: $space-between-posts/2*1em;
-	padding: $header-spacing 0;
+	padding-top: $header-spacing-top;
+	padding-bottom: $header-spacing-bottom;
 	border-bottom: 1px solid $light-gray;
 	text-align: center;
 	height: 120.375px;
@@ -189,6 +190,7 @@ article {
 		
 	h1, h2, h3 {
 		text-align: $subheadings-align;
+		margin-bottom: 20px;
 		
 		a {
 			color: $black;
@@ -204,6 +206,7 @@ article {
 		padding: 0;
 		border: 0px;
 		text-align: center;
+		height: auto;
 		
 		h1 {
 			font-size: $post-title-font-size;		
