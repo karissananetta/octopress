@@ -1,0 +1,30 @@
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<h1><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></h1>
+		<time>{{ page.date | date: "%B %d, %Y" }}</time>
+	</header>
+		<div class="content">
+			{{ content }}
+		</div>
+	<footer>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=226764337380094";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+		<div style="display:inline-block">
+			{% include post/categories.html %}
+		</div>
+
+		<div style="top:5px; float:right;"class="fb-like" data-href="http://www.harveyxia.com/{{ page.url }}" data-width="500" data-layout="button_count" data-action="recommend" data-show-faces="true" data-share="true"></div>
+	
+	{% if page.source.url %}via <a href="{{ page.source.url }}">{{ page.source.title }}</a>{% endif %}
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
