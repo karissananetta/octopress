@@ -50,7 +50,14 @@ h2 {
 	font-size: $subheading-font-size;
 	font-weight: $subheading-font-weight;
 	font-style: $subheading-font-style;
+
+	text-align: center;
 	}
+
+h3 {
+	text-align: center;
+	font-size: .9em;
+}
 		
 .wrap {
 	margin: 0 auto;
@@ -129,7 +136,7 @@ header {
 		font-size: 30px;
 		cursor: pointer;
 		position: relative;
-		top: 35px;
+		top: 10px;
 
 		a {
 			color: $black;
@@ -189,13 +196,26 @@ article {
 		border-bottom: 1px solid $light-gray;
 		border-top: 1px solid $light-gray;
 		}
-		
-	h1, h2, h3 {
+
+	h1 {
 		text-align: $subheadings-align;
 		margin-bottom: 20px;
 		
 		a {
 			color: $black;
+			
+			&:hover {
+				color: $main-color;
+				}
+			}
+	}
+		
+	h2, h3 {
+		text-align: $subheadings-align;
+		margin-bottom: 20px;
+		
+		a {
+			// color: $black;
 			
 			&:hover {
 				color: $main-color;

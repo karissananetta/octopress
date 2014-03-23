@@ -10,15 +10,13 @@
 		<meta content="{{ site.title }}" name="author">
 		
 		<title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
-		
+		<link href="{{ root_url }}/myfavicon.png" rel="icon">
 		<!-- Styles -->
 		<link href="{{ root_url }}/stylesheets/main.css" rel="stylesheet">
 		
 		<!-- Google webfonts -->
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
 		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
-
-		<link rel="stylesheet" href="http://use.typekit.com/k/ulk6bab-d.css?3bb2a6e53c9684ffdc9a9bf21b5b2a6212c659a382e93df341d51f097f68d5432e3135f4f6cdbb4b35734147d9b3de389e7dc49443328740c9beb3a8586a7b8b5fe6fa5ac9242bbec58029440e7c489c24aea0c5a5e7ab48851650d33780578f09fe17f901824ff27550925aac93be144436434a93e16b2f8b67219103f7e598d6f0a6444c1eb97741230123db">
 		
 		<!-- jQuery and plugins -->
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
@@ -35,7 +33,21 @@
 
 		<script src="{{ root_url }}/js/footnote.js" type="text/javascript"></script>
 
-		
+		<!-- SNOWSTORM-->
+		<script src="{{ root_url }}/js/snowstorm-min.js"> </script>
+
+		<!-- snowstorm options -->
+		<script type="text/javascript">
+		snowStorm.autoStart = false;
+		snowStorm.snowColor = '#78B0F6';   // blue-ish snow!?
+		snowStorm.flakesMaxActive = 96;    // show more snow on screen at once
+		snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
+		snowStorm.vMaxX = 5;
+		snowStorm.vMaxY = 3;
+		snowStorm.toggleSnow();
+		</script>
+
+
 		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="{{ site.title }}" type="application/rss+xml" />-->
 
 		<script type="text/javascript">	
@@ -129,7 +141,8 @@
 				{% if page.url == "/index.html" %}
 					<div class="scroll-navi" style="color: #333">
 						<a href="" class="prev">←</a>
-						<a href="javascript:;" style="cursor: default; font-size: 20px; position: relative; top: -3.5px;">♦</a>
+						<a style="cursor: default; font-size: 20px; position: relative; top: -3.5px;"
+						href="javascript:;" onclick="snowStorm.toggleSnow(); return false;">♦</a>
 						<a href="" class="next">→</a>
 					</div>
 				{% endif %}
