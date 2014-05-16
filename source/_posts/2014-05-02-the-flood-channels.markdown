@@ -34,8 +34,6 @@ The man nodded his head. “Keep reading the bible. The Revelation is coming.”
 
 He went on to warn us about the apocalyptic dangers ahead. Instead of preaching to us the typical fire-and-brimstone voice of urgency, he spoke to us casually, nodding his head for emphasis. We asked him once again if he wanted food or water. He shook his head, insisting he was fine. As we walked on, I wondered if he really was fine. I wondered if he denied our help out of dignity, under some illusion that he was okay. I resisted the urge to glance back. Planes droned and the highway hummed in the background. All of it seemed far away in the distance.
 
-<!-- [![Flood Channels](/images/floodchannels.jpg)](https://scontent-b-iad.xx.fbcdn.net/hphotos-frc3/t1.0-9/544628_419618904719536_1920774910_n.jpg) -->
-
 {% photo /images/floodchannels.jpg /images/floodchannels.jpg %}
 
 Photo by Jason Kim.
