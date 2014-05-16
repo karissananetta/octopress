@@ -1,14 +1,212 @@
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
-{% include head.html %}
-<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
-  <header role="banner">{% include header.html %}</header>
-  <nav role="navigation">{% include navigation.html %}</nav>
-  <div id="main">
-    <div id="content">
-      {{ content | expand_urls: root_url }}
-    </div>
-  </div>
-  <footer role="contentinfo">{% include footer.html %}</footer>
-  {% include after_footer.html %}
-</body>
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="{{ site.description }}" name="description">
+		<meta content="{{ site.title }}" name="author">
+		
+		<title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
+		<link href="{{ root_url }}/myfavicon.png" rel="icon">
+		<!-- Styles -->
+		<link href="{{ root_url }}/stylesheets/main.css" rel="stylesheet">
+		
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+		
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="{{ root_url }}/js/jquery.zclip.min.js"></script>
+
+		<!-- serial scroll -->
+		<script src="{{ root_url }}/js/jquery.scrollTo.min.js"></script>
+		<script src="{{ root_url }}/js/jquery.serialScroll.min.js"></script>
+		
+		<!-- Syntax highlighter -->
+		<link href="{{ root_url }}/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="{{ root_url }}/js/prettify.js"></script>
+		{% include google_analytics.html %}
+
+		<script src="{{ root_url }}/js/footnote.js" type="text/javascript"></script>
+
+		<!-- SNOWSTORM-->
+		<script src="{{ root_url }}/js/snowstorm-min.js"> </script>
+
+		<!-- snowstorm options -->
+		<script type="text/javascript">
+		snowStorm.autoStart = false;
+		snowStorm.snowColor = '#78B0F6';   // blue-ish snow!?
+		snowStorm.flakesMaxActive = 96;    // show more snow on screen at once
+		snowStorm.useTwinkleEffect = true; // let the snow flicker in and out of view
+		snowStorm.vMaxX = 5;
+		snowStorm.vMaxY = 3;
+		snowStorm.toggleSnow();
+		</script>
+
+		<!-- PHOTOS TAG / FANCY BOX PLUGIN -->
+
+		<script type="text/javascript">
+		    jQuery.noConflict(); // ender.js conflicts with jQuery
+		</script>
+		 
+		<!-- Load FancyBox -->
+		<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" />
+		<script src="/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+		 
+		{% fancyboxstylefix %}
+		 
+		<!-- Custom Scripts -->
+		<script language="Javascript" type="text/javascript">
+		    // ender.js gobbles jQuery's ready event: Use ender.js $ instead
+		    jQuery(document).ready(function() {
+		        jQuery(".fancybox").fancybox();
+		    });
+		</script>
+
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="{{ site.title }}" type="application/rss+xml" />-->
+
+		<script type="text/javascript">	
+		// Easing equation, borrowed from jQuery easing plugin
+		// http://gsgd.co.uk/sandbox/jquery/easing/
+		jQuery.easing.easeOutQuart = function (x, t, b, c, d) {
+			return -c * ((t=t/d-1)*t*t*t - 1) + b;
+		};
+		
+		jQuery(function( $ ){
+			/**
+			 * Most jQuery.serialScroll's settings, actually belong to jQuery.ScrollTo, check it's demo for an example of each option.
+			 * @see http://flesler.demos.com/jquery/scrollTo/
+			 * You can use EVERY single setting of jQuery.ScrollTo, in the settings hash you send to jQuery.serialScroll.
+			 */
+			
+			/**
+			 * The plugin binds 6 events to the container to allow external manipulation.
+			 * prev, next, goto, start, stop and notify
+			 * You use them like this: $(your_container).trigger('next'), $(your_container).trigger('goto', [5]) (0-based index).
+			 * If for some odd reason, the element already has any of these events bound, trigger it with the namespace.
+			 */		
+			
+			/**
+			 * IMPORTANT: this call to the plugin specifies ALL the settings (plus some of jQuery.ScrollTo)
+			 * This is done so you can see them. You DON'T need to specify the commented ones.
+			 * A 'target' is specified, that means that #screen is the context for target, prev, next and navigation.
+			 */
+			$('.wrap').serialScroll({
+				target:'.outer-scroll',
+				items:'article', // Selector to the items ( relative to the matched elements, '#sections' in this case )
+				prev:'a.prev',// Selector to the 'prev' button (absolute!, meaning it's relative to the document)
+				next:'a.next',// Selector to the 'next' button (absolute too)
+				axis:'xy',// The default is 'y' scroll on both ways
+				navigation:'#navigation li a',
+				duration:700,// Length of the animation (if you scroll 2 axes and use queue, then each axis take half this time)
+				force:true, // Force a scroll to the element specified by 'start' (some browsers don't reset on refreshes)
+				
+				//queue:false,// We scroll on both axes, scroll both at the same time.
+				//event:'click',// On which event to react (click is the default, you probably won't need to specify it)
+				//stop:false,// Each click will stop any previous animations of the target. (false by default)
+				//lock:true, // Ignore events if already animating (true by default)		
+				//start: 0, // On which element (index) to begin ( 0 is the default, redundant in this case )		
+				//cycle:true,// Cycle endlessly ( constant velocity, true is the default )
+				//step:1, // How many items to scroll each time ( 1 is the default, no need to specify )
+				//jump:false, // If true, items become clickable (or w/e 'event' is, and when activated, the pane scrolls to them)
+				//lazy:false,// (default) if true, the plugin looks for the items on each event(allows AJAX or JS content, or reordering)
+				//interval:1000, // It's the number of milliseconds to automatically go to the next
+				//constant:true, // constant speed
+				
+				onBefore:function( e, elem, $pane, $items, pos ){
+					/**
+					 * 'this' is the triggered element 
+					 * e is the event object
+					 * elem is the element we'll be scrolling to
+					 * $pane is the element being scrolled
+					 * $items is the items collection at this moment
+					 * pos is the position of elem in the collection
+					 * if it returns false, the event will be ignored
+					 */
+					 //those arguments with a $ are jqueryfied, elem isn't.
+					e.preventDefault();
+					if( this.blur )
+						this.blur();
+					$pane.height( elem.clientHeight )
+				},
+				onAfter:function( elem ){
+					//'this' is the element being scrolled ($pane) not jqueryfied
+				}
+			});
+		});
+	</script>
+			
+		
+	</head>
+	<body onload="prettyPrint()">
+	
+		<div class="wrap">
+	
+			<header>
+				<div class="title"><a class="blogtitle" style="color:#333;" href="{{ root_url }}/">{{ site.title }}</a></div>
+				
+				<div class="navi">
+					<ul>
+						<li><a href="{{ root_url }}/">Blog</a></li>
+						<li><a href="{{ root_url }}/blog/archives">Archives</a></li>
+						<li><a href="{{ root_url }}/about">About</a></li>
+					</ul>
+				</div> <!-- // .navi -->
+
+				{% if page.url == "/index.html" %}
+					<div class="scroll-navi" style="color: #333">
+						<a href="" class="prev">←</a>
+						<a style="cursor: default; font-size: 20px; position: relative; top: -3.5px;"
+						href="javascript:;" onclick="snowStorm.toggleSnow(); return false;">♦</a>
+						<a href="" class="next">→</a>
+					</div>
+				{% endif %}
+			</header>
+			<section class="outer-scroll">
+				<section class="inner-scroll">
+		
+				{{ content | expand_urls: root_url }}
+
+				</section>
+
+			</section>
+		
+			<footer>
+				{% include footer.html %}
+			</footer>
+			
+		</div> <!-- // .wrap -->
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+			
+			// Add the image's title attribute as a caption
+			// $('p:has(img)').append(function () {
+			// 	return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			// });
+			
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+			
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'{{ root_url }}/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
 </html>
+<!-- END OF _layouts/default.html -->
