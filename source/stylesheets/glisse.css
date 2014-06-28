@@ -118,4 +118,5 @@ html{height:100%}
     padding: 7px;
     border: rgb(194, 194, 194) 1px solid;
     border-radius: 5px;
+    cursor: pointer;
 }
